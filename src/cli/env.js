@@ -1,4 +1,3 @@
-// import process from 'process';
 import { stdout } from'process';
 
 const parseEnv = () => {
